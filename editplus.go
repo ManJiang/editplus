@@ -134,3 +134,7 @@ func keygen(username string) string {
 	// fmt.Println(string(regcode[1]))
 	return (strings.ToUpper(string(regcode[:29])))
 }
+
+/*
+test
+*/
