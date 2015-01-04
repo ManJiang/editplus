@@ -1,3 +1,7 @@
+/*
+modify by phpfans@qq.com
+ */
+ */
 package main
 
 import (
